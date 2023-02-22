@@ -18,7 +18,10 @@ git clone https://github.com/nwpuzhengyan/SVcnn.git
 	6. copy
 	7. time
 	8. argparse
-  9.PIL
+	9. PIL
+	10. pytorch
+	11. torchvision
+	
 ---
 ## Running
 The sorted bam files from NGMLR, Minimap and Minimap2 are all be used as input sorted bam. The input reference.fa and reference.fa of bam file must be the same one.
