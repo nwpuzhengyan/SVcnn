@@ -33,7 +33,6 @@ SVcnn <input sorted bam> <input reference.fa>
 ---
 ## Convert SV region into image
 SVcnn can convert SV regionS into images and store the images in this folder SV_into_image. If users want to check the converted images, they can look for them in folder SV_into_image. The name of each image consists of the chromosome name and SV start and end position.
-```
 ---
 ## Output format
 The output format is as follows. CHROM is chromosome name. POS is the SV start position. ID is the SV name. REF is the reference sequence and ALT is the alternate sequence. QUAL is the quality of SV and FILTER means filter status. INFO is the basic information of SV.
