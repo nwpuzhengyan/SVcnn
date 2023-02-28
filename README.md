@@ -31,9 +31,9 @@ cd dist
 SVcnn <input sorted bam> <input reference.fa>	
 ```
 ---
-## Convert SV region into image
+## Convert SV regions into images
 
-SVcnn can convert SV regionS into images and store the images in this folder SV_into_image. If users want to check the converted images, they can look for them in folder SV_into_image. The name of each image consists of the chromosome name and SV start and end position.
+SVcnn can convert SV regions into images and store the images in this folder SV_into_image. If users want to check the converted images, they can look for them in folder SV_into_image. The name of each image consists of the chromosome name and SV start and end position.
 
 ---
 ## Output format
