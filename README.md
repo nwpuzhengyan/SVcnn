@@ -21,6 +21,7 @@ git clone https://github.com/nwpuzhengyan/SVcnn.git
 	9. PIL
 	10. pytorch
 	11. torchvision
+	12. os
 	
 ---
 ## Running
@@ -30,6 +31,7 @@ cd dist
 SVcnn <input sorted bam> <input reference.fa>	
 ```
 ---
+## Output format
 ## Output format
 The output format is as follows. CHROM is chromosome name. POS is the SV start position. ID is the SV name. REF is the reference sequence and ALT is the alternate sequence. QUAL is the quality of SV and FILTER means filter status. INFO is the basic information of SV.
 ```
