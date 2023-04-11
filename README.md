@@ -22,6 +22,7 @@ git clone https://github.com/nwpuzhengyan/SVcnn.git
 	10. pytorch
 	11. torchvision
 	12. os
+	13. swalign
 	
 ---
 ## Running
