@@ -29,7 +29,7 @@ git clone https://github.com/nwpuzhengyan/SVcnn.git
 The sorted bam files from NGMLR, Minimap and Minimap2 are all be used as input sorted bam. The input reference.fa and reference.fa of bam file must be the same one.
 ```
 cd dist
-SVcnn <input sorted bam> <input reference.fa>	
+./SVcnn <input sorted bam> <input reference.fa>	
 ```
 ---
 ## Convert SV regions into images
